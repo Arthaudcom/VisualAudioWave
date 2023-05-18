@@ -9,3 +9,7 @@ VisualAudioWave est une expérience interactive basée sur le logiciel Resolume 
 ![Exemple de visuels audio-réactifs](https://github.com/Arthaudcom/VisualAudioWave/blob/main/Capture%20d%E2%80%99%C3%A9cran%202023-05-17%20224342.jpg?raw=true)
 
 ![Exemple de visuels audio-réactifs](https://github.com/Arthaudcom/VisualAudioWave/blob/main/Capture%20d%E2%80%99%C3%A9cran%202023-05-17%20224825.jpg?raw=true)
+
+## Crédits
+Logiciel [Resolume](https://resolume.com/)
+Plugin [Threewave](https://get-juicebar.com/detail/threewave)
